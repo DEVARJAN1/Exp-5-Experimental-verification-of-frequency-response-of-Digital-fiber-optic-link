@@ -48,17 +48,15 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 -	Slightly unscrew the cap of SFH756V (660nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
 -	Connect the other end of the Fiber to detector SFH551V (Photo Transistor Detector) very carefully.
 -	Observe the detected signal at post TTL OUT on oscilloscope.
- 
+  <img width="807" height="292" alt="image" src="https://github.com/user-attachments/assets/555266e6-4463-4575-9228-af922dc5ef07" />
 -	To measure the digital bandwidth of the phototransistor vary the input signal frequency and observe the detected signal at various frequencies.
 -	Determine the frequency at which the detector stops recovering the signal. This determines the max. bit rate on the digital link.
 -	Keep switch SW9 towards TX2 position.
+-	<img width="814" height="295" alt="image" src="https://github.com/user-attachments/assets/c0ddb196-3a74-4207-838f-02acd4463620" />
+
 -	Keep Jumper JP7 towards +5V position.
 -	Remove fiber cable from SFH756V (660nm) and slightly unscrew the cap of SFH450V (950nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
 -	Observe the detected signal at post TTL OUT on oscilloscope.
-
- <img width="807" height="292" alt="image" src="https://github.com/user-attachments/assets/555266e6-4463-4575-9228-af922dc5ef07" />
-
-<img width="814" height="295" alt="image" src="https://github.com/user-attachments/assets/c0ddb196-3a74-4207-838f-02acd4463620" />
 
 <img width="838" height="303" alt="image" src="https://github.com/user-attachments/assets/476ebb27-ef1f-4719-8096-006f979821e8" />
 
