@@ -58,7 +58,7 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 -	Remove fiber cable from SFH756V (660nm) and slightly unscrew the cap of SFH450V (950nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
 -	Observe the detected signal at post TTL OUT on oscilloscope.
 
-<img width="838" height="303" alt="image" src="https://github.com/user-attachments/assets/476ebb27-ef1f-4719-8096-006f979821e8" />
+ <img width="838" height="303" alt="image" src="https://github.com/user-attachments/assets/476ebb27-ef1f-4719-8096-006f979821e8" />
 
 ---
 
